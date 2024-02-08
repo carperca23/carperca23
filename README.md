@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello there! I'm Carlos Pérez Catalapiedra, a computer engineering student at the University of Seville. Currently, I am also a proud member of the Perception and Control Department at [ARUS Andalucia Racing Team](https://www.arusteam.com/), the Formula Student team at the University of Seville.
+I'm Carlos Pérez Catalapiedra, a computer engineering student at the University of Seville. Currently, I am also a proud member of the Perception and Control Department at [ARUS Andalucia Racing Team](https://www.arusteam.com/), the Formula Student team at the University of Seville.
 
 I am actively involved in the implementation of Simultaneous Localization and Mapping (SLAM) for the autonomous system of our racing car. It's an exciting challenge that allows me to apply my skills in a real-world, high-performance setting.
 
