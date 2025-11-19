@@ -1,29 +1,42 @@
-### Hi there 👋, Welcome!
+### Hi there, I'm Carlos Pérez 👋
 
-<!--
-**carperca23/carperca23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a final-year **Computer Engineering** student at the **University of Seville**, passionate about **Cybersecurity**, **Artificial Intelligence**, and **Embedded Systems**.
 
-Here are some ideas to get you started:
+I thrive on low-level programming challenges and building autonomous systems. Currently, I'm exploring the intersection of AI Agents (MCP) and network security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-I'm Carlos Pérez Catalapiedra, a computer engineering student at the University of Seville. Currently, I am also a proud member of the Perception and Control Department at [ARUS Andalucia Racing Team](https://www.arusteam.com/), the Formula Student team at the University of Seville.
+### 🚀 What I'm up to
 
-I am actively involved in the implementation of Simultaneous Localization and Mapping (SLAM) for the autonomous system of our racing car. It's an exciting challenge that allows me to apply my skills in a real-world, high-performance setting.
+* 🏎️ **Formula Student:** Perception & Control Engineer at [ARUS Andalucia Racing Team](https://www.arusteam.com/). Working on **SLAM**, LiDAR sensors, and CAN-BUS protocols for our autonomous racing car.
+* 💻 **Campus 42:** Successfully passed the "Piscine," validating intensive self-learning skills and C programming mastery.
+* 🛡️ **Focus:** Deepening my knowledge in Pentesting, Network Auditing, and LLM-based applications (LangChain).
 
-Tools:
+---
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://www.ros.org/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](your_github_profile) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&logoWidth=20)](https://www.oracle.com/java/) [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)](your_sql_profile) [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+### 🛠️ Tech Stack
 
+**Languages**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/carlospereez0) to stay updated on my latest projects and experiences.
+**Cybersecurity & Tools**
+![Nmap](https://img.shields.io/badge/Nmap-blue?style=for-the-badge&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![ZAP](https://img.shields.io/badge/OWASP%20ZAP-4B5C88?style=for-the-badge&logo=owasp&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-Happy coding!
+**AI & Robotics**
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=carlospereezo&show_icons=true&theme=tokyonight" alt="Carlos Stats" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+I'm always open to discussing new technologies, security challenges, or racing algorithms.
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlospereez0)
