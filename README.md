@@ -30,7 +30,7 @@ I thrive on low-level programming challenges and building autonomous systems. Cu
 ### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=carlospereezo&show_icons=true&theme=tokyonight" alt="Carlos Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=carperca23&show_icons=true&theme=tokyonight" alt="Carlos Stats" />
 </p>
 
 ---
