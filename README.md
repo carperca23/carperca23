@@ -41,7 +41,7 @@ I thrive on low-level programming challenges and building autonomous systems. Cu
 <img src="https://streak-stats.demolab.com?user=carperca23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carperca23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carperca23&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
