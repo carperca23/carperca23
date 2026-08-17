@@ -1,21 +1,21 @@
-### Hi there, I'm Carlos Pérez 👋
+### Hi there, I'm Carlos Pérez
 
-I am a final-year **Computer Engineering** student at the **University of Seville**, passionate about **Cybersecurity**, **Artificial Intelligence**, and **Embedded Systems**.
-
-I thrive on low-level programming challenges and building autonomous systems. Currently exploring the intersection of AI Agents (MCP/LangChain) and network security.
+Computer Engineer (University of Seville), now pursuing the **Master's in Logic, Computation and Artificial Intelligence**. Focused on **Cybersecurity**, **AI Agents**, and **Embedded Systems**.
 
 ---
 
-### 🚀 What I'm up to
+### What I'm up to
 
-* 🏎️ **Formula Student:** Perception & Control Engineer at [ARUS Andalucia Racing Team](https://www.arusteam.com/). Working on **SLAM**, LiDAR sensors, and CAN-BUS protocols for our autonomous racing car.
-* 📊 **Industry Experience:** Finishing an internship at **Caja Rural del Sur** (Systems Dept.), building dynamic Power BI dashboards with Oracle SQL — turning complex data into actionable insights.
-* 💻 **Campus 42:** Successfully passed the *Piscine*, validating intensive self-learning skills and C programming mastery.
-* 🛡️ **Focus:** Deepening my knowledge in Pentesting, Network Auditing, and LLM-based applications.
+- **Caja Rural del Sur:** 8 months in the Systems department, focused on cybersecurity, plus ETL pipelines and BI dashboards (Power BI, Oracle SQL) for data-driven decisions.
+- **Master's:** Currently pursuing the Master's in Logic, Computation and AI at the University of Seville.
+- **Formula Student:** Perception & Control Engineer at [ARUS Andalucía Racing Team](https://www.arusteam.com/), working on SLAM, LiDAR, and CAN-BUS for our autonomous racing car.
+- **Hackathon:** Built an agentic project at the Gradio Agents & MCP Hackathon 2025, exploring LLM agents and tool use (MCP).
+- **Campus 42:** Passed the Piscine, validating intensive self-learning and C programming under pressure.
+- **Focus:** Deepening my knowledge in pentesting, network auditing, and secure system design.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -23,7 +23,7 @@ I thrive on low-level programming challenges and building autonomous systems. Cu
 
 **Cybersecurity & Tools**
 
-![Nmap](https://img.shields.io/badge/Nmap-blue?style=for-the-badge&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![ZAP](https://img.shields.io/badge/OWASP%20ZAP-4B5C88?style=for-the-badge&logo=owasp&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nmap](https://img.shields.io/badge/Nmap-blue?style=for-the-badge&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![ZAP](https://img.shields.io/badge/OWASP%20ZAP-4B5C88?style=for-the-badge&logo=owasp&logoColor=white) ![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashcat&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **AI & Robotics**
 
@@ -31,24 +31,42 @@ I thrive on low-level programming challenges and building autonomous systems. Cu
 
 **Data & Cloud**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### Pinned projects
 
-<p align="left">
-<img src="https://streak-stats.demolab.com?user=carperca23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carperca23&theme=tokyonight" alt="Top Languages" />
-</p>
+- [**miniMaxTicTacToe**](https://github.com/carperca23/miniMaxTicTacToe) — unbeatable Tic-Tac-Toe AI built in Haskell using the Minimax algorithm.
+- [**missile-guidance-pn**](https://github.com/carperca23/missile-guidance-pn) — real-time missile interception simulator using Augmented Proportional Navigation (APN) and an Extended Kalman Filter (EKF) for target-state estimation.
+- [**ChaosPRNG**](https://github.com/carperca23/ChaosPRNG) — C implementation of a chaos-based pseudo-random number generator (LFSR + chaotic maps) for cryptographic applications, based on published research.
+- [**time_series_analysis**](https://github.com/carperca23/time_series_analysis) — forecasting and analysis of time series data in Python.
+- [**integridos**](https://github.com/carperca23/integridos) — Python project centered on data/system integrity.
 
 ---
 
-### 📫 Let's Connect
+### GitHub Stats
 
-I'm always open to discussing new technologies, security challenges, or racing algorithms.
+<p align="left">
+  <img src="./generated/overview.svg" alt="GitHub Stats" height="165" />
+  <img src="./generated/languages.svg" alt="Top Languages" height="165" />
+</p>
+
+
+---
+
+### Certifications
+
+- dbt Fundamentals
+- Gradio Agents & MCP Hackathon 2025
+- IBM Z Xplore — Concepts
+- DELF B1 (French) · B2 English
+
+---
+
+### Let's Connect
+
+I'm always open to discussing cybersecurity, AI agents, or racing algorithms.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlospereez0)
 [![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosperezcantalapiedra23@gmail.com)
