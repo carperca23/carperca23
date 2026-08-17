@@ -48,10 +48,9 @@ Computer Engineer (University of Seville), now pursuing the **Master's in Logic,
 ### GitHub Stats
 
 <p align="left">
-  <img src="./generated/overview.svg" alt="GitHub Stats" height="165" />
-  <img src="./generated/languages.svg" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carperca23&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carperca23&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
-
 
 ---
 
