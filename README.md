@@ -6,7 +6,7 @@ Computer Engineer (University of Seville), now pursuing the **Master's in Logic,
 
 ### What I'm up to
 
-- **Caja Rural del Sur:** 8 months in the Systems department, focused on cybersecurity, plus ETL pipelines and BI dashboards (Power BI, Oracle SQL) for data-driven decisions.
+- **Caja Rural del Sur:** 11 months in the Systems department, focused on cybersecurity, plus ETL pipelines and BI dashboards (Power BI, Oracle SQL) for data-driven decisions.
 - **Master's:** Currently pursuing the Master's in Logic, Computation and AI at the University of Seville.
 - **Formula Student:** Perception & Control Engineer at [ARUS Andalucía Racing Team](https://www.arusteam.com/), working on SLAM, LiDAR, and CAN-BUS for our autonomous racing car.
 - **Hackathon:** Built an agentic project at the Gradio Agents & MCP Hackathon 2025, exploring LLM agents and tool use (MCP).
