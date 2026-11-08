@@ -11,7 +11,7 @@ Computer Engineer (University of Seville), now pursuing the **Master's in Logic,
 - **Formula Student:** Perception & Control Engineer at [ARUS Andalucía Racing Team](https://www.arusteam.com/), working on SLAM, LiDAR, and CAN-BUS for our autonomous racing car.
 - **Hackathon:** Built an agentic project at the Gradio Agents & MCP Hackathon 2025, exploring LLM agents and tool use (MCP).
 - **Campus 42:** Passed the Piscine, validating intensive self-learning and C programming under pressure.
-- **Focus:** Deepening my knowledge in pentesting, network auditing, and secure system design.
+- **Focus:** Deepening my knowledge in AI, agentic systems, and secure system design.
 
 ---
 
